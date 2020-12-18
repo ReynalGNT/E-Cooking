@@ -1,10 +1,15 @@
 PROJECT APLIKASI E-COOKING
 
+
 Mata kuliah : Teknik Pemogramam
+
 Dosen       : Fredian Simanjuntak, S.Kom
+
 Judul Projek: Aplikasi E-Cooking
 
+
 KELOMPOK 6
+
 
 Anggota Kelompok :
 1. Fadil Mahendra          2031082
